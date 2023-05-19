@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<p align="left"> <img src="https://goobar.b-cdn.net/wp-content/uploads/2021/03/android_category_thumbnail.png" alt="abdulbasit-exe" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fdata-engineering-icon-trendy-modern-flat-linear-vector-eng-white-background-thin-line-general-collection-editable-outline-image130949958&psig=AOvVaw05QafYVW2sQw04BgWr2UE2&ust=1684577025032000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC0gcuQgf8CFQAAAAAdAAAAABAE" alt="abdulbasit-exe" /> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Kotlin | Android**
+- 🌱 I’m currently learning **Python | SQL**
 
-- 🤝 I’m looking for help with **Concepts of Android**
+- 🤝 I’m looking for help with **Concepts of Data Engr.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdulBasit-exe](https://github.com/abdulBasit-exe)
 
-- 💬 Ask me about **Java | Kotlin | C++**
+- 💬 Ask me about **Java | Python | C++**
 
 - 📫 How to reach me **memonbasit007@gmail.com**
 
