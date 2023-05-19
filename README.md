@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A passionate developer from Pakistan</h3>
+<h3 align="center">A tech enthusiast from Pakistan</h3>
 
 <p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fdata-engineering-icon-trendy-modern-flat-linear-vector-eng-white-background-thin-line-general-collection-editable-outline-image130949958&psig=AOvVaw05QafYVW2sQw04BgWr2UE2&ust=1684577025032000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMC0gcuQgf8CFQAAAAAdAAAAABAE" alt="abdulbasit-exe" /> </p>
 
