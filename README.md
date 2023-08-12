@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Python (Pandas-Numpy)**
+- 🌱 I’m currently learning **Python & Databases**
 
-- 🤝 I’m looking for help with **Concepts of Data Engr/Analytics**
+- 🤝 I’m looking for help with **Concepts of Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdulBasit-exe](https://github.com/abdulBasit-exe)
 
