@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java | Python | C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/abdul-basit-memon-522075258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BC9Sy5A7YQLaxHffFpZlASw%3D%3D**
+- 📫 How to reach me **memonbasit007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
