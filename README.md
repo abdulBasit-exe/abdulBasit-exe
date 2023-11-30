@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Concepts of Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdulBasit-exe](https://github.com/abdulBasit-exe)
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
 - 💬 Ask me about **Java | Python | C++**
 
