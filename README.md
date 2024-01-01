@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Python & Databases**
 
-- 🤝 I’m looking for help with **Concepts of Data Engineering**
+- 🤝 I’m looking for help with **Concepts of Data Engineering | ETL | Database Design**
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
-- 💬 Ask me about **Java | Python | C++**
+- 💬 Ask me about **Data Engineering | Python | SQL**
 
 - 📫 How to reach me **memonbasit007@gmail.com**
 
