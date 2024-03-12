@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A tech enthusiast from Pakistan</h3>
+<h3 align="center">A Data enthusiast from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulbasit-exe&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasit-exe" /> </p>
 
 - 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Python & Databases**
+- 🌱 I’m currently learning **Airflow and Snowflake**
 
-- 🤝 I’m looking for help with **Concepts of Data Engineering | ETL | Database Design**
+- 🤝 I’m looking for help with **Concepts of Data Engineering | Data Modeling | Data Warehouse**
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
