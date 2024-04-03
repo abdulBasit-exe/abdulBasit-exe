@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Airflow and Snowflake**
 
-- 🤝 I’m looking for help with **Concepts of Data Engineering | Data Modeling | Data Warehouse**
+- 🤝 👯 I’m looking to collaborate on **Data Driven Projects**
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
