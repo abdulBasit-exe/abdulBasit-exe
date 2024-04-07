@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Airflow and Snowflake**
+- 🌱 I’m currently learning **Airflow and NoSQL**
 
-- 🤝 👯 I’m looking to collaborate on **Data Driven Projects**
+- 🤝 👯 I’m looking to collaborate on **Data-Driven Projects**
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
