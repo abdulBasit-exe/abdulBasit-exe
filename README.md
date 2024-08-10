@@ -23,7 +23,7 @@
   
   - 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Airflow and NoSQL**
+- 🌱 I’m currently learning **Spark and MongoDB**
 
 - 🤝 👯 I’m looking to collaborate on **Data-Driven Projects**
 
