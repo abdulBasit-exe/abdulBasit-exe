@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
-- 💬 Ask me about **Data Engineering | Python | SQL**
+- 💬 Ask me about **Data Engineering | Python | SQL | Apache Spark**
 
 - 📫 How to reach me **memonbasit007@gmail.com**
 </div>
