@@ -23,13 +23,13 @@
   
   - 🔭 I’m currently working on **Data Engineering**
 
-- 🌱 I’m currently learning **Spark and NoSQL**
+- 🌱 I’m currently learning **Azure Data Factory and Azure Databricks**
 
 - 🤝 👯 I’m looking to collaborate on **Data-Driven Projects**
 
 - 👨‍💻 All of my projects are available at https://www.linkedin.com/in/abdul-basit-m/
 
-- 💬 Ask me about **Data Engineering | Python | SQL | Apache Spark**
+- 💬 Ask me about **Data Engineering | Python | SQL | PySpark**
 
 - 📫 How to reach me **memonbasit007@gmail.com**
 </div>
