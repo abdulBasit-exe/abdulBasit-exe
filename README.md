@@ -13,7 +13,14 @@
 
 - 📫 How to reach me **memonbasit007@gmail.com**
 
-<h3 align="left">Connect with me: [https://www.linkedin.com/in/abdul-basit-m/](https://www.linkedin.com/in/abdul-basit-m/)</h3>
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdul-basit-m/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 <p align="left">
 </p>
 
