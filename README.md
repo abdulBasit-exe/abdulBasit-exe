@@ -9,13 +9,11 @@
 
 - 👯 I’m looking to collaborate on **Data Related Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/abdul-basit-m/](https://www.linkedin.com/in/abdul-basit-m/)
-
 - 💬 Ask me about **Data Engineering | Python | SQL | PySpark**
 
 - 📫 How to reach me **memonbasit007@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [https://www.linkedin.com/in/abdul-basit-m/](https://www.linkedin.com/in/abdul-basit-m/)</h3>
 <p align="left">
 </p>
 
